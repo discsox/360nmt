@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="abstract-test-class.phpt" server="360nmt.com//" local="130320028559135881" remote="130323453000000000" Dst="1" />
+<file name="concrete-test-class.phpt" server="360nmt.com//" local="130320028559185922" remote="130323453000000000" Dst="1" />
+<file name="dataprovider-log-xml-isolation.phpt" server="360nmt.com//" local="130320028559235963" remote="130323453000000000" Dst="1" />
+<file name="dataprovider-log-xml.phpt" server="360nmt.com//" local="130320028559275991" remote="130323453000000000" Dst="1" />
+<file name="dataprovider-testdox.phpt" server="360nmt.com//" local="130320028559326037" remote="130323453000000000" Dst="1" />
+<file name="debug.phpt" server="360nmt.com//" local="130320028559366064" remote="130323453000000000" Dst="1" />
+<file name="default-isolation.phpt" server="360nmt.com//" local="130320028559406102" remote="130323453000000000" Dst="1" />
+<file name="default.phpt" server="360nmt.com//" local="130320028559456143" remote="130323453000000000" Dst="1" />
+<file name="dependencies-isolation.phpt" server="360nmt.com//" local="130320028559496176" remote="130323453000000000" Dst="1" />
+<file name="dependencies.phpt" server="360nmt.com//" local="130320028559536209" remote="130323453000000000" Dst="1" />
+<file name="dependencies2-isolation.phpt" server="360nmt.com//" local="130320028559586250" remote="130323453000000000" Dst="1" />
+<file name="dependencies2.phpt" server="360nmt.com//" local="130320028559626277" remote="130323453000000000" Dst="1" />
+<file name="dependencies3-isolation.phpt" server="360nmt.com//" local="130320028559666310" remote="130323453000000000" Dst="1" />
+<file name="dependencies3.phpt" server="360nmt.com//" local="130320028559716356" remote="130323453000000000" Dst="1" />
+<file name="empty-testcase.phpt" server="360nmt.com//" local="130320028559756389" remote="130323453000000000" Dst="1" />
+<file name="exception-stack.phpt" server="360nmt.com//" local="130320028559796421" remote="130323453000000000" Dst="1" />
+<file name="exclude-group-isolation.phpt" server="360nmt.com//" local="130320028559846462" remote="130323453000000000" Dst="1" />
+<file name="exclude-group.phpt" server="360nmt.com//" local="130320028559886490" remote="130323453000000000" Dst="1" />
+<file name="failure-isolation.phpt" server="360nmt.com//" local="130320028559936536" remote="130323453000000000" Dst="1" />
+<file name="failure.phpt" server="360nmt.com//" local="130320028559986577" remote="130323453000000000" Dst="1" />
+<file name="fatal-isolation.phpt" server="360nmt.com//" local="130320028560036618" remote="130323453000000000" Dst="1" />
+<file name="fatal.phpt" server="360nmt.com//" local="130320028560076645" remote="130323453000000000" Dst="1" />
+<file name="filter-class-isolation.phpt" server="360nmt.com//" local="130320028560126691" remote="130323453000000000" Dst="1" />
+<file name="filter-class.phpt" server="360nmt.com//" local="130320028560166724" remote="130323453000000000" Dst="1" />
+<file name="filter-method-isolation.phpt" server="360nmt.com//" local="130320028560206752" remote="130323453000000000" Dst="1" />
+<file name="filter-method.phpt" server="360nmt.com//" local="130320028560256798" remote="130323453000000000" Dst="1" />
+<file name="filter-no-results.phpt" server="360nmt.com//" local="130320028560296830" remote="130323453000000000" Dst="1" />
+<file name="group-isolation.phpt" server="360nmt.com//" local="130320028560346871" remote="130323453000000000" Dst="1" />
+<file name="group.phpt" server="360nmt.com//" local="130320028560386904" remote="130323453600000000" Dst="1" />
+<file name="help.phpt" server="360nmt.com//" local="130320028560436945" remote="130323453600000000" Dst="1" />
+<file name="help2.phpt" server="360nmt.com//" local="130320028560476978" remote="130323453600000000" Dst="1" />
+<file name="list-groups.phpt" server="360nmt.com//" local="130320028560527019" remote="130323453600000000" Dst="1" />
+<file name="log-json.phpt" server="360nmt.com//" local="130320028560567051" remote="130323453600000000" Dst="1" />
+<file name="log-tap.phpt" server="360nmt.com//" local="130320028560617092" remote="130323453600000000" Dst="1" />
+<file name="log-xml.phpt" server="360nmt.com//" local="130320028560657125" remote="130323453600000000" Dst="1" />
+<file name="strict-incomplete.phpt" server="360nmt.com//" local="130320028560697158" remote="130323453600000000" Dst="1" />
+<file name="strict-isolation.phpt" server="360nmt.com//" local="130320028560747199" remote="130323453600000000" Dst="1" />
+<file name="strict.phpt" server="360nmt.com//" local="130320028560787231" remote="130323453600000000" Dst="1" />
+<file name="tap.phpt" server="360nmt.com//" local="130320028560827264" remote="130323453600000000" Dst="1" />
+<file name="test-suffix-multiple.phpt" server="360nmt.com//" local="130320028560877300" remote="130323453600000000" Dst="1" />
+<file name="test-suffix-single.phpt" server="360nmt.com//" local="130320028560917338" remote="130323453600000000" Dst="1" />
+<file name="testdox-html.phpt" server="360nmt.com//" local="130320028560957365" remote="130323453600000000" Dst="1" />
+<file name="testdox-text.phpt" server="360nmt.com//" local="130320028561007411" remote="130323453600000000" Dst="1" />
+<file name="testdox.phpt" server="360nmt.com//" local="130320028561057452" remote="130323453600000000" Dst="1" />
+</dwsync>

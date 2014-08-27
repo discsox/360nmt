@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.phpt" server="360nmt.com//" local="130320028449647202" remote="130323454800000000" Dst="1" />
+<file name="class_call_parent_clone.phpt" server="360nmt.com//" local="130320028449717295" remote="130323454800000000" Dst="1" />
+<file name="class_call_parent_constructor.phpt" server="360nmt.com//" local="130320028449767321" remote="130323454800000000" Dst="1" />
+<file name="class_dont_call_parent_clone.phpt" server="360nmt.com//" local="130320028449837363" remote="130323454800000000" Dst="1" />
+<file name="class_dont_call_parent_constructor.phpt" server="360nmt.com//" local="130320028449847366" remote="130323454800000000" Dst="1" />
+<file name="class_implementing_interface_call_parent_constructor.phpt" server="360nmt.com//" local="130320028449907430" remote="130323454800000000" Dst="1" />
+<file name="class_implementing_interface_dont_call_parent_constructor.phpt" server="360nmt.com//" local="130320028449917438" remote="130323454800000000" Dst="1" />
+<file name="class_partial.phpt" server="360nmt.com//" local="130320028449987470" remote="130323454800000000" Dst="1" />
+<file name="interface.phpt" server="360nmt.com//" local="130320028450047545" remote="130323454800000000" Dst="1" />
+<file name="invocation_object_clone_object.phpt" server="360nmt.com//" local="130320028450117602" remote="130323455400000000" Dst="1" />
+<file name="invocation_static_clone_object.phpt" server="360nmt.com//" local="130320028450187659" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class.phpt" server="360nmt.com//" local="130320028450257701" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_call_parent_clone.phpt" server="360nmt.com//" local="130320028450317750" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_call_parent_constructor.phpt" server="360nmt.com//" local="130320028450377799" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_dont_call_parent_clone.phpt" server="360nmt.com//" local="130320028450437848" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_dont_call_parent_constructor.phpt" server="360nmt.com//" local="130320028450447856" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_implementing_interface_call_parent_constructor.phpt" server="360nmt.com//" local="130320028450507911" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_implementing_interface_dont_call_parent_constructor.phpt" server="360nmt.com//" local="130320028450517914" remote="130323455400000000" Dst="1" />
+<file name="namespaced_class_partial.phpt" server="360nmt.com//" local="130320028450587971" remote="130323455400000000" Dst="1" />
+<file name="namespaced_interface.phpt" server="360nmt.com//" local="130320028450648030" remote="130323455400000000" Dst="1" />
+<file name="nonexistent_class.phpt" server="360nmt.com//" local="130320028450708090" remote="130323455400000000" Dst="1" />
+<file name="nonexistent_class_with_namespace.phpt" server="360nmt.com//" local="130320028450768113" remote="130323455400000000" Dst="1" />
+<file name="nonexistent_class_with_namespace_starting_with_separator.phpt" server="360nmt.com//" local="130320028450828183" remote="130323455400000000" Dst="1" />
+<file name="wsdl_class.phpt" server="360nmt.com//" local="130320028450898204" remote="130323455400000000" Dst="1" />
+<file name="wsdl_class_namespace.phpt" server="360nmt.com//" local="130320028450978305" remote="130323455400000000" Dst="1" />
+<file name="wsdl_class_partial.phpt" server="360nmt.com//" local="130320028451048337" remote="130323455400000000" Dst="1" />
+</dwsync>

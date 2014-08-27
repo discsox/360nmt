@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="360nmt.com//" local="130320028547556426" remote="130323450600000000" Dst="1" />
+<file name=".gitignore" server="360nmt.com//" local="130320028547606467" remote="130323450600000000" Dst="1" />
+<file name=".travis.yml" server="360nmt.com//" local="130320028547666516" remote="130323450600000000" Dst="1" />
+<file name="build.xml" server="360nmt.com//" local="130320028564500261" remote="130323450600000000" Dst="1" />
+<file name="composer.json" server="360nmt.com//" local="130320028564750471" remote="130323450600000000" Dst="1" />
+<file name="CONTRIBUTING.md" server="360nmt.com//" local="130320028547706539" remote="130323450600000000" Dst="1" />
+<file name="LICENSE" server="360nmt.com//" local="130320028547736548" remote="130323450600000000" Dst="1" />
+<file name="package.xml" server="360nmt.com//" local="130320028564850553" remote="130323450600000000" Dst="1" />
+<file name="phpdox.xml.dist" server="360nmt.com//" local="130320028564870569" remote="130323450600000000" Dst="1" />
+<file name="phpunit.bat" server="360nmt.com//" local="130320028564920610" remote="130323451800000000" Dst="1" />
+<file name="phpunit.php" server="360nmt.com//" local="130320028564970651" remote="130323451800000000" Dst="1" />
+<file name="phpunit.xml.dist" server="360nmt.com//" local="130320028564990667" remote="130323452400000000" Dst="1" />
+<file name="phpunit.xsd" server="360nmt.com//" local="130320028565020692" remote="130323452400000000" Dst="1" />
+<file name="README.md" server="360nmt.com//" local="130320028556393640" remote="130323452400000000" Dst="1" />
+</dwsync>

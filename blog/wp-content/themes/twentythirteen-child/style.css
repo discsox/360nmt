@@ -1,0 +1,60 @@
+/*
+ Theme Name:     Twenty Thirteen Child
+ Theme URI:      http://localhost/360nmt_r/blog/twenty-thirteen-child/
+ Description:    Twenty Thirteen Child Theme
+ Author:         Marcel Manzardo
+ Author URI:     http://mmdbiz.com
+ Template:       twentythirteen
+ Version:        1.0.0
+*/
+
+/* =Imports styles from the parent theme
+-------------------------------------------------------------- */
+@import url('../twentythirteen/style.css');
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.site-header .home-link {
+	display:none;
+}
+
+.entry-header, .entry-content, .entry-summary, .entry-meta {
+    max-width: 90%;
+    width: 90%;
+}
+.navbar {
+    background-color: #FFCA8E;
+}
+.nav-menu li a {
+    color: #141412;
+	line-height: 1.2;
+    padding: 10px 12px;
+}
+.main-navigation {
+    min-height: 38px;
+}
+.archive-header {
+    background-color: #FDF4E3;
+}
+.archive-title, .archive-meta {
+    font: italic 300 20px "Source Sans Pro",Helvetica,sans-serif;
+    margin: 0 auto;
+    max-width: 1040px;
+    padding: 5px 0;
+    width: 100%;
+}
+.hentry {
+    padding: 10px 0;
+}
+.entry-header {
+    margin-bottom: 20px;
+}
+.site-footer {
+    display: none;
+}
+.entry-content img.alignleft, .entry-content .wp-caption.alignleft {
+    margin-left: 0;
+}
+.entry-content img.alignright, .entry-content .wp-caption.alignright {
+    margin-right: 0;
+}

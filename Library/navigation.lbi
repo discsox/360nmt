@@ -1,0 +1,136 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><ul>
+              <li><a href="#">How We Help</a> 
+                <ul>
+                      <li><a href="../whats-wrong.php">Overview</a></li>
+                      <li><a href="../cases/head-and-neck.php">Head &amp; Neck</a></li>
+                      <li><a href="../cases/arm-and-shoulder.php">Shoulder &amp; Arm</a></li>
+                      <li><a href="../cases/torso-and-back.php">Torso &amp; Back</a></li>
+                      <li><a href="../cases/pelvis-and-hip.php">Pelvis &amp; Hip</a></li>
+                      <li><a href="../cases/leg-and-foot.php">Leg &amp; Foot</a></li>
+                      <li><a href="../cases/pain-syndromes.php">Pain Syndromes</a></li>
+                      <li><a href="../cases/other-syndromes.php">Other Issues</a></li>
+                  </ul>
+              </li>
+              <li><a href="#">Services</a> 
+                  <ul>
+                      <li><a href="../services.php">All Services</sup></a></li>
+                      <li><a href="../360nmt.php">360 NMT<sup>&reg;</sup></a></li>
+                      <li><a href="../trigger-point-dry-needling.php">Trigger Point Dry Needling</a></li> 
+                      <li><a href="../acupuncture.php">Acupuncture</a></li> 
+                      <li><a href="../team/peter.php">Corrective Movement</a></li>
+                    <li><a href="../pilates.php">Pilates</a></li>
+                      <li><a href="../pricing.php">Pricing</a></li>
+                      <li><a href="../faq-services.php">FAQ</a></li>
+                  </ul>
+              </li>
+              <li><a href="../team.php">Team</a></li>
+              <li><a href="#">Seminars</a>
+                  <ul>
+                      <li><a href="../seminars-overview.php">Seminars Overview</a></li>
+                      <li><a href="../neuromuscular-techniques.php">NeuroMuscular Techniques</a></li>
+                      <li><a href="../myopain-seminars.php">Myopain Seminars</a></li>
+                      <li><a href="../guest-lectures.php">Guest Workshops &amp; Lectures</a></li>
+                      <li><a href="../faculty.php">360 NMT Teaching Faculty</a></li>
+                      <li><a href="http://clients.mindbodyonline.com/ws.asp?studioid=5589&stype=-104" target="_blank">Course Dates &amp; Registration</a></li>
+                      <li><a href="../faq-seminars.php">Seminar FAQ</a></li>
+                  </ul>
+              </li>
+              <li class="search_container" >
+
+                <div id='cse' style='width: 100%;'>Loading</div>
+				<script src='//www.google.com/jsapi' type='text/javascript'></script>
+                <script type='text/javascript'>
+                google.load('search', '1', {language: 'en', style: google.loader.themes.V2_DEFAULT});
+                google.setOnLoadCallback(function() {
+                  var customSearchOptions = {};
+                  var orderByOptions = {};
+                  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+                  customSearchOptions['enableOrderBy'] = true;
+                  customSearchOptions['orderByOptions'] = orderByOptions;
+                  customSearchOptions['overlayResults'] = true;
+                  var customSearchControl =   new google.search.CustomSearchControl('010019495098111598081:h9zib0tjftg', customSearchOptions);
+                  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                  var options = new google.search.DrawOptions();
+                  options.setAutoComplete(true);
+                  customSearchControl.draw('cse', options);
+                }, true);		
+                </script>
+                <style type='text/css'>
+				  #cse {
+					  text-align:right;
+				  }
+				  .cse .gsc-control-cse div, .gsc-control-cse div {	
+					  width: 97%;
+				  }
+				  .cse .gsc-control-cse, .gsc-control-cse {
+					  padding: 0;
+					  background-color: transparent;
+					  border: 1px none transparent;
+					  margin-right: -2px;
+				  }
+				  form.gsc-search-box {
+					  margin: 0;
+				  }
+				  table.gsc-search-box {
+					  margin-bottom: 0;
+				  }
+				  table.gsc-search-box td {
+					  vertical-align: top;
+				  }
+				  .gsc-search-box-tools .gsc-search-box .gsc-input {
+					  padding-right: 0px;
+					  height: 15px !important;
+				  }
+				  .gsc-input-box {
+					  height: 15px;
+					  padding-bottom: 5px;
+				  }
+				  input.gsc-input {
+					  font-size: 14px;
+				  }
+				  .cse input.gsc-search-button, input.gsc-search-button {
+   /* background-color: #E46C0A;
+    background-image: -moz-linear-gradient(center top , #E46C0A, #F7C397);*/
+	background: #e46c0a; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U0NmMwYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmN2MzOTciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #e46c0a 0%, #f7c397 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e46c0a), color-stop(100%,#f7c397)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #e46c0a 0%,#f7c397 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #e46c0a 0%,#f7c397 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #e46c0a 0%,#f7c397 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #e46c0a 0%,#f7c397 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', endColorstr='#f7c397',GradientType=0 ); /* IE6-8 */
+
+    border: 1px solid #E46C0A;
+	margin-right: 0;
+				  }
+				  .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+					  margin-top: 2px;
+					  padding: 1px 2px;
+				  }
+				  .gsib_a {
+					  padding-left: 0;
+					  padding-right: 0;
+				  }
+				  .gs-result .gs-title, .gs-result .gs-title * {
+					  width:110%;
+				  }
+				  .gs-title a {
+					  padding:0;
+				  }
+				  .gsc-results-wrapper-overlay {
+					  width:70% !important;
+				  }
+				  .gsc-above-wrapper-area {
+					  width: 50% !important;
+				  }
+				  .gsc-webResult .gsc-result {
+					  padding: 0;
+				  }
+				  .gsc-results-close-btn {
+					   width: 12px !important;
+				  }
+                </style>
+              </li>
+          </ul>

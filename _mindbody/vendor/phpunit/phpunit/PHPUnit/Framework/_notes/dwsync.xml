@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assert.php" server="360nmt.com//" local="130320028548607306" remote="130323450600000000" Dst="1" />
+<file name="AssertionFailedError.php" server="360nmt.com//" local="130320028548867488" remote="130323450600000000" Dst="1" />
+<file name="Comparator.php" server="360nmt.com//" local="130320028548927562" remote="130323451200000000" Dst="1" />
+<file name="ComparatorFactory.php" server="360nmt.com//" local="130320028549758247" remote="130323451200000000" Dst="1" />
+<file name="ComparisonFailure.php" server="360nmt.com//" local="130320028549818265" remote="130323451200000000" Dst="1" />
+<file name="Constraint.php" server="360nmt.com//" local="130320028549888353" remote="130323451200000000" Dst="1" />
+<file name="Error.php" server="360nmt.com//" local="130320028552490480" remote="130323451200000000" Dst="1" />
+<file name="Exception.php" server="360nmt.com//" local="130320028552690608" remote="130323451200000000" Dst="1" />
+<file name="ExpectationFailedException.php" server="360nmt.com//" local="130320028552740649" remote="130323451200000000" Dst="1" />
+<file name="IncompleteTest.php" server="360nmt.com//" local="130320028552790690" remote="130323451200000000" Dst="1" />
+<file name="IncompleteTestError.php" server="360nmt.com//" local="130320028552840736" remote="130323451200000000" Dst="1" />
+<file name="OutputError.php" server="360nmt.com//" local="130320028552880763" remote="130323451200000000" Dst="1" />
+<file name="SelfDescribing.php" server="360nmt.com//" local="130320028552990858" remote="130323451200000000" Dst="1" />
+<file name="SkippedTest.php" server="360nmt.com//" local="130320028553050913" remote="130323451200000000" Dst="1" />
+<file name="SkippedTestError.php" server="360nmt.com//" local="130320028553090935" remote="130323451800000000" Dst="1" />
+<file name="SkippedTestSuiteError.php" server="360nmt.com//" local="130320028553140981" remote="130323451800000000" Dst="1" />
+<file name="SyntheticError.php" server="360nmt.com//" local="130320028553201030" remote="130323451800000000" Dst="1" />
+<file name="Test.php" server="360nmt.com//" local="130320028553251076" remote="130323451800000000" Dst="1" />
+<file name="TestCase.php" server="360nmt.com//" local="130320028553381177" remote="130323451800000000" Dst="1" />
+<file name="TestFailure.php" server="360nmt.com//" local="130320028553441226" remote="130323451800000000" Dst="1" />
+<file name="TestListener.php" server="360nmt.com//" local="130320028553491267" remote="130323451800000000" Dst="1" />
+<file name="TestResult.php" server="360nmt.com//" local="130320028553581336" remote="130323451800000000" Dst="1" />
+<file name="TestSuite.php" server="360nmt.com//" local="130320028553681418" remote="130323451800000000" Dst="1" />
+<file name="Warning.php" server="360nmt.com//" local="130320028553791513" remote="130323451800000000" Dst="1" />
+</dwsync>

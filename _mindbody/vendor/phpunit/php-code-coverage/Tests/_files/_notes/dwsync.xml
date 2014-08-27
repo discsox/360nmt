@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BankAccount-clover.xml" server="360nmt.com//" local="130320028526511577" remote="130323448800000000" Dst="1" />
+<file name="BankAccount.php" server="360nmt.com//" local="130320028526561598" remote="130323448800000000" Dst="1" />
+<file name="BankAccountTest.php" server="360nmt.com//" local="130320028526611639" remote="130323448800000000" Dst="1" />
+<file name="class-with-anonymous-function-clover.xml" server="360nmt.com//" local="130320028528022797" remote="130323448800000000" Dst="1" />
+<file name="CoverageClassExtendedTest.php" server="360nmt.com//" local="130320028526661669" remote="130323448800000000" Dst="1" />
+<file name="CoverageClassTest.php" server="360nmt.com//" local="130320028526701733" remote="130323448800000000" Dst="1" />
+<file name="CoverageFunctionParenthesesTest.php" server="360nmt.com//" local="130320028526741745" remote="130323448800000000" Dst="1" />
+<file name="CoverageFunctionParenthesesWhitespaceTest.php" server="360nmt.com//" local="130320028526781778" remote="130323448800000000" Dst="1" />
+<file name="CoverageFunctionTest.php" server="360nmt.com//" local="130320028526831819" remote="130323448800000000" Dst="1" />
+<file name="CoverageMethodOneLineAnnotationTest.php" server="360nmt.com//" local="130320028526871851" remote="130323448800000000" Dst="1" />
+<file name="CoverageMethodParenthesesTest.php" server="360nmt.com//" local="130320028526911884" remote="130323448800000000" Dst="1" />
+<file name="CoverageMethodParenthesesWhitespaceTest.php" server="360nmt.com//" local="130320028526951937" remote="130323448800000000" Dst="1" />
+<file name="CoverageMethodTest.php" server="360nmt.com//" local="130320028526991970" remote="130323448800000000" Dst="1" />
+<file name="CoverageNoneTest.php" server="360nmt.com//" local="130320028527031982" remote="130323448800000000" Dst="1" />
+<file name="CoverageNothingTest.php" server="360nmt.com//" local="130320028527202126" remote="130323448800000000" Dst="1" />
+<file name="CoverageNotPrivateTest.php" server="360nmt.com//" local="130320028527072015" remote="130323448800000000" Dst="1" />
+<file name="CoverageNotProtectedTest.php" server="360nmt.com//" local="130320028527122056" remote="130323448800000000" Dst="1" />
+<file name="CoverageNotPublicTest.php" server="360nmt.com//" local="130320028527162089" remote="130323448800000000" Dst="1" />
+<file name="CoveragePrivateTest.php" server="360nmt.com//" local="130320028527242154" remote="130323448800000000" Dst="1" />
+<file name="CoverageProtectedTest.php" server="360nmt.com//" local="130320028527282187" remote="130323448800000000" Dst="1" />
+<file name="CoveragePublicTest.php" server="360nmt.com//" local="130320028527332233" remote="130323448800000000" Dst="1" />
+<file name="CoverageTwoDefaultClassAnnotations.php" server="360nmt.com//" local="130320028527372260" remote="130323448800000000" Dst="1" />
+<file name="CoveredClass.php" server="360nmt.com//" local="130320028527412293" remote="130323448800000000" Dst="1" />
+<file name="CoveredFunction.php" server="360nmt.com//" local="130320028527442323" remote="130323448800000000" Dst="1" />
+<file name="ignored-lines-clover.xml" server="360nmt.com//" local="130320028528052817" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageClassExtendedTest.php" server="360nmt.com//" local="130320028527482371" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageClassTest.php" server="360nmt.com//" local="130320028527522404" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageCoversClassPublicTest.php" server="360nmt.com//" local="130320028527572424" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageCoversClassTest.php" server="360nmt.com//" local="130320028527612457" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageMethodTest.php" server="360nmt.com//" local="130320028527652495" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageNotPrivateTest.php" server="360nmt.com//" local="130320028527692522" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageNotProtectedTest.php" server="360nmt.com//" local="130320028527732555" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageNotPublicTest.php" server="360nmt.com//" local="130320028527772593" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoveragePrivateTest.php" server="360nmt.com//" local="130320028527822628" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoverageProtectedTest.php" server="360nmt.com//" local="130320028527862661" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoveragePublicTest.php" server="360nmt.com//" local="130320028527902714" remote="130323448800000000" Dst="1" />
+<file name="NamespaceCoveredClass.php" server="360nmt.com//" local="130320028527952832" remote="130323448800000000" Dst="1" />
+<file name="NotExistingCoveredElementTest.php" server="360nmt.com//" local="130320028528002765" remote="130323448800000000" Dst="1" />
+<file name="source_without_ignore.php" server="360nmt.com//" local="130320028528283005" remote="130323448800000000" Dst="1" />
+<file name="source_without_namespace.php" server="360nmt.com//" local="130320028528323038" remote="130323448800000000" Dst="1" />
+<file name="source_with_class_and_anonymous_function.php" server="360nmt.com//" local="130320028528112866" remote="130323448800000000" Dst="1" />
+<file name="source_with_ignore.php" server="360nmt.com//" local="130320028528162907" remote="130323448800000000" Dst="1" />
+<file name="source_with_namespace.php" server="360nmt.com//" local="130320028528202939" remote="130323448800000000" Dst="1" />
+<file name="source_with_oneline_annotations.php" server="360nmt.com//" local="130320028528242972" remote="130323448800000000" Dst="1" />
+</dwsync>

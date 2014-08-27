@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="360nmt.com//" local="130320028522027897" remote="130323447600000000" Dst="1" />
+<file name=".gitignore" server="360nmt.com//" local="130320028522057926" remote="130323447600000000" Dst="1" />
+<file name=".travis.yml" server="360nmt.com//" local="130320028522218062" remote="130323447600000000" Dst="1" />
+<file name="build.xml" server="360nmt.com//" local="130320028528353083" remote="130323447600000000" Dst="1" />
+<file name="composer.json" server="360nmt.com//" local="130320028528453149" remote="130323447600000000" Dst="1" />
+<file name="CONTRIBUTING.md" server="360nmt.com//" local="130320028522268103" remote="130323447600000000" Dst="1" />
+<file name="LICENSE" server="360nmt.com//" local="130320028522328152" remote="130323447600000000" Dst="1" />
+<file name="package.xml" server="360nmt.com//" local="130320028528483174" remote="130323447600000000" Dst="1" />
+<file name="phpunit.xml.dist" server="360nmt.com//" local="130320028528503185" remote="130323448200000000" Dst="1" />
+<file name="README.markdown" server="360nmt.com//" local="130320028525921100" remote="130323448200000000" Dst="1" />
+</dwsync>

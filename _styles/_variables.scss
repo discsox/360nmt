@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*  SAAS Variables _variables.scss
+	----------------------------------*/
+
+/*360 layout*/
+$main-color: #FDF4E3;/*background of main page elements*/
+//$nav-hover-color: #C64F00;/*background hover in navigation*/
+$font-color-link: #e46c0a;/*standard link color*/
+$font-color-hover: #e46c0a;/*standard link hover color*/
+$font-color-text: #B51385;/*standard text color*/
+$font-size-text: 14px;/*standard text size*/
+$font-color-highlight: #e46c0a;/*text highlight color for headings etc*/
+//$font-color-important: #FFCC00; /*navigation titles color etc*/
+//$font-hover-color-important: #FFEE00; /*navigation titles hover color etc*/
+
+@mixin fancy-font {
+	font: {
+		family: 'Krona One',sans-serif;
+		weight: normal;
+		height: normal;
+	}
+	color: $font-color-highlight;
+}
+@mixin standard-font {
+	font: {
+		family: Arial, Helvetica, sans-serif;
+	}
+	color: $font-color-text;
+}
+
+@mixin rounded-all ($radius: 5px) {
+	 
+	-moz-border-radius: $radius;
+	-webkit-border-radius: $radius;
+	border-radius: $radius;
+}
+/*  END SAAS Variables _variables.scss
+	----------------------------------*/

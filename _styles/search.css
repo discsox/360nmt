@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+				  #cse {
+					  text-align:right;
+				  }
+				  .cse .gsc-control-cse div, .gsc-control-cse div {	
+					  width: 97%;
+				  }
+				  .cse .gsc-control-cse, .gsc-control-cse {
+					  padding: 0;
+					  background-color: transparent;
+					  border: 1px none transparent;
+				  }
+				  form.gsc-search-box {
+					  margin: 0;
+				  }
+				  table.gsc-search-box {
+					  margin-bottom: 0;
+				  }
+				  table.gsc-search-box td {
+					  vertical-align: top;
+				  }
+				  .gsc-search-box-tools .gsc-search-box .gsc-input {
+					  padding-right: 0px;
+					  height: 15px !important;
+				  }
+				  .gsc-input-box {
+					  height: 15px;
+					  padding-bottom: 5px;
+				  }
+				  input.gsc-input {
+					  font-size: 14px;
+				  }
+				  .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+					  margin-top: 2px;
+					  padding: 1px 2px;
+				  }
+				  .gsib_a {
+					  padding-left: 0;
+					  padding-right: 0;
+				  }
+				  .gs-result .gs-title, .gs-result .gs-title * {
+					  width:110%;
+				  }
+				  .gs-title a {
+					  padding:0;
+				  }
+				  .gsc-results-wrapper-overlay {
+					  width:70% !important;
+				  }
+				  .gsc-above-wrapper-area {
+					  width: 50% !important;
+				  }
+				  .gsc-webResult .gsc-result {
+					  padding: 0;
+				  }
+				  .gsc-results-close-btn {
+					   width: 12px !important;
+				  }
