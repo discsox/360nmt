@@ -280,6 +280,7 @@ Acupuncture</td>
         </tr>
   </table>
     </div>
+        <div class="linkBoxWhite"><a href="../team.php">&lt;-Back to Team </a></div>
     
   </div>
   <!-- InstanceEndEditable -->

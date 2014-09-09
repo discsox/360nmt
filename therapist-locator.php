@@ -384,13 +384,13 @@ Phone: 207 338 5850<br>
       </div>
       <div class="accordion"> 
         <!-- Trigger -->
-        <header class="accbottom">
+        <header>
           <div class="indicator" >&nbsp;</div>
           <div class="AccTitleLarge">Maryland</div>
         </header>
         
         <!-- Content Section -->
-        <section class="content accordionBottomRadius">
+        <section class="content">
           <ul>
             <li>
               <p><strong>Robert  D. Gerwin, MD</strong><br>
@@ -425,19 +425,15 @@ Phone:  301-656-5613<br>
           <div class="clearBoth"></div>
         </section>
       </div>
-    </div>
-  </div>
-  <div id="ContentTxt_right"><!-- Wrapper -->
-    <div class="AccordionWrap">
       <div class="accordion"> 
         <!-- Trigger -->
-        <header class="accordionTopRadius">
+        <header class="accbottom">
           <div class="indicator" >&nbsp;</div>
           <div class="AccTitleLarge">Massachusetts</div>
         </header>
         
         <!-- Content Section -->
-        <section class="content">
+        <section class="content accordionBottomRadius">
           <ul>
             <li class="longAddress">
               <p><strong>Robert  Anderson, CMTPT</strong> <br>
@@ -463,9 +459,13 @@ Phone: 781-894-9430 <br>
           <div class="clearBoth"></div>
         </section>
       </div>
+    </div>
+  </div>
+  <div id="ContentTxt_right"><!-- Wrapper -->
+    <div class="AccordionWrap">
       <div class="accordion"> 
         <!-- Trigger -->
-        <header>
+        <header class="accordionTopRadius">
           <div class="indicator" >&nbsp;</div>
           <div class="AccTitleLarge">New York</div>
         </header>
@@ -511,6 +511,28 @@ Office:  (716) 282-2888<br>
                 Charlotte, NC 28204<br>
                 Phone: 704-333-8899 <br>
   <a href="http://www.charlotteacupuncture.com/">CharlotteAcupuncture.com</a></p>
+            </li>
+          </ul>
+          <div class="clearBoth"></div>
+        </section>
+      </div>
+      <div class="accordion"> 
+        <!-- Trigger -->
+        <header>
+          <div class="indicator" >&nbsp;</div>
+          <div class="AccTitleLarge">Pennsylvania</div>
+        </header>
+        
+        <!-- Content Section -->
+        <section class="content">
+          <ul>
+            <li class="longAddress">
+              <p><strong>Bridget McCormack, PT, MS</strong><br>
+              Premier Orthopaedics<br>
+              525 West Chester Pike<br>
+              Havertown, PA 19083<br>
+              Phone: 610-449-8400<br>
+              <a href="http://www.premierortho.com/physical-therapy-havertown.php">premierortho.com</a> </p>
             </li>
           </ul>
           <div class="clearBoth"></div>

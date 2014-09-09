@@ -470,6 +470,15 @@ Products</a><br>
             </li>
           </ul>
           <div class="clearBoth"></div>
+          <h3 class="Underlined marginLR5pc marginT10px">National Assoc. of Myofascial Trigger Point Therapists </h3>
+          <ul>
+            <li>
+              <p><a href="_pdfs/NAMTPT_2014_Adams.pdf" target="_blank"> 2014 NAMTPT Conference<br>
+              Conference Handouts</a><!--<br>
+              Manual Technique Video Demo--></p>
+            </li>
+          </ul>
+          <div class="clearBoth"></div>
         </section>
       </div>
       <div class="accordion"> 

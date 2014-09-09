@@ -845,11 +845,21 @@ Management Program<br>
   <a href="http://www.drfagerson.com" target="_blank">drfagerson.com</a>              </p>
               </li>
               <li>              
+                <p><strong>Carl Faust, DPT<br>
+                Peter Stone, PT</strong><br>
+                  Summit Orthopedic Ther<br>
+                  40 Washington St, Ste 10<br>
+                  Wellesley, MA 02481<br>
+                  781-591-2002<br>
+  <a href="http://summitortho.org/" target="_blank">summitortho.org</a></p>
+              </li>
+              <li>              
                 <p><strong>Kristen Lung, DPT</strong><br>
                   1320 Centre Street<br>
-                  Newton Center, MA  02459<br>
+                  Newton Ctr, MA  02459<br>
                   617-467-5585<br>
   <a href="http://www.sportsandpt.com" target="_blank">sportsandpt.com</a><br>
+  <br>
   <br>
                 </p>
               </li>
@@ -859,16 +869,9 @@ Management Program<br>
                   62 Walnut Street<br>
                   Wellesley, MA 02481<br>
                   781-235-5275<br>
-  <a href="http://www.advancedorthopedic.net" target="_blank">advancedorthopedic.net</a></p>
-              </li>
-              <li>              
-                <p><strong>James Ruetenik, DPT<br>
-                Gregory Vescera, PT</strong><br>
-                  Soma Physical Therapy<br>
-                  43 Charles Street<br>
-                  Needham, MA 02494<br>
-                  781-400-1236<br>
-  <a href="http://www.somaptandrehab.com/" target="_blank">somaptandrehab.com</a>            </p>
+  <a href="http://www.advancedorthopedic.net" target="_blank">advancedorthopedic.net</a><br>
+  <br>
+                </p>
               </li>
               <li>              
                 <p><strong>Spaulding Cambridge<br>
@@ -949,6 +952,32 @@ Outpatient Center </strong><br>
               </li>
             </ul>
             <div class="clearBoth"></div>
+          </section>
+        </div>
+        <div class="accordion"> 
+          <!-- Trigger -->
+          <header>
+            <div class="indicator" >&nbsp;</div>
+            <div class="AccTitleLarge">Sports Physiatry</div>
+          </header>
+          
+          <!-- Content Section -->
+          <section class="content">          
+            <ul>
+              <li class="longAddress">
+                <p><strong>John-Paul Hezel, MD</strong><br>
+                  Beth Israel Deaconess  Medical Ctr<br>
+                  Dept of
+                  Orthopedic Surgery&nbsp;<br>
+                  330 Brookline Avenue<br>
+                  Boston, MA. 02215 <br>
+                  617-667-2172 
+<br>
+                <a href="http://www.bidmc.org/sports" target="_blank">bidmc.org/sports</a></p>
+              </li>
+            </ul>
+            <div class="clearBoth"></div>
+            <p>Dr. Hezel specializes in the non-operative management of all sports and musculoskeletal injuries. He treats people of all ages who sustain injuries across a wide range of activities, from leisurely fitness training to high-level organized athletics. Dr. Hezel is board certified in Physical Medicine and Rehabilitation and Sports Medicine, and specializes in musculoskeletal ultrasound and peripheral joint and soft-tissue injections. </p>
           </section>
         </div>
         <div class="accordion"> 

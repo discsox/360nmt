@@ -324,6 +324,35 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
         <!-- Trigger -->
         <header>
           <div class="indicator" >&nbsp;</div>
+          <div class="AccTitleLarge">Corrective Movement</div>
+        </header>
+        
+        <!-- Content Section -->
+        <section class="content">
+              <p><strong>Corrective Movement Intervention sessions will:</strong></p>
+              <ul class="normal">
+                <li>Screen for risk of  injury in healthy individuals</li>
+                <li>Screen for key  biomechanical faults that have led to soft-tissue rehabilitation plateaus in  people recovering from injury</li>
+                <li>Teach movements and  stretches that override poor patterns that have become imbedded</li>
+                <li>Speed up the  rehabilitation process and effectiveness of neuromuscular therapy</li>
+                <li>Emphasize a safe  environment for patients that have been in long-standing pain to trust moving  again</li>
+                <li>Suggest  recommendations and home care routines that are carefully graded and paced to  prevent flare-ups</li>
+                <li>Build a step-by-step, customized  program that helps clients progress to more strenuous athletic endeavors</li>
+                <li class="marginB20">Make appropriate  referrals to other healthcare providers if movement screen reveals joint or  nerve involvement<br>
+<br>
+</li>
+              </ul>
+<p class="textInfoStyle">Therapist: <a href="team/peter.php">Peter Stone</a></p>
+          <p class="textInfoStyle"><strong><a href="http://clients.mindbodyonline.com/ws.asp?studioid=5589&stype=-102&sView=week" target="_blank">Schedule an appointment</a></strong></p>
+          <p class="textInfoStyle">For pricing click <a href="pricing.php"><strong>here</strong></a></p>
+          <div class="clearBoth"></div>
+          <div class="clearBoth"></div>
+        </section>
+      </div>
+      <div class="accordion"> 
+        <!-- Trigger -->
+        <header>
+          <div class="indicator" >&nbsp;</div>
           <div class="AccTitleLarge">Pilates</div>
         </header>
         
