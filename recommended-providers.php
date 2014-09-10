@@ -602,12 +602,20 @@ Dedham
                 </p>
               </li>
               <li>
+                <p><strong>Joseph DeAngelis, MD</strong><br>
+                  BIDMC Sports Medicine<br>
+                  200 Boylston St., 4th Fl<br>
+                  Chestnut Hill, MA 02467<br>
+                  617-667-7678<br>
+                <a href="http://bidmc.org/sports" target="_blank">bidmc.org/sports</a></p>
+              </li>
+              <li>
                 <p><strong>Lawrence Higgins, MD</strong><br>
                   Brigham &amp; Women&rsquo;s<br>
                   75 Francis Street<br>
                   Boston, MA 02115<br>
                   617-732-5322<br>
-                <a href="http://www.bostonshoulderinstitute.com">bostonshoulderinstitute.com</a></p>
+                <a href="http://www.bostonshoulderinstitute.com" target="_blank">bostonshoulderinstitute.com</a></p>
               </li>
               <li>
                 <p><strong>Laurie Katz, MD</strong><br>
