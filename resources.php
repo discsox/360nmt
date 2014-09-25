@@ -61,6 +61,11 @@ Do the following if you're using your customized build of modernizr (http://www.
 
 <!-- InstanceBeginEditable name="Head" -->
 <script type="text/javascript" src="_scripts/accordion.js"></script>
+<script type="text/javascript">
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
 <!-- InstanceEndEditable -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -476,6 +481,10 @@ Products</a><br>
               <p><a href="_pdfs/NAMTPT_2014_Adams.pdf" target="_blank"> 2014 NAMTPT Conference<br>
               Conference Handouts</a><!--<br>
               Manual Technique Video Demo--></p>
+            </li>
+            <li>
+              <p><a href="#" onClick="MM_openBrWindow('https://drive.google.com/open?id=0ByZZ26tI87XpMnEwZjhhWFo5aEE&authuser=0','','resizable=yes,width=1020,height=632')">NAMPT Conference Video<br>
+<img src="_videos/namtpt2014.jpg" alt="90-90"></a></p>
             </li>
           </ul>
           <div class="clearBoth"></div>

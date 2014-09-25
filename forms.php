@@ -251,22 +251,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
     <h2>Your Next Steps: </h2>
     <p class="textInfoStyle marginB10px marginTB0">Download and fill out the appropriate forms for  your upcoming treatment. </p>
     <p class="textInfoStyle marginB10px marginTB0">If possible, fax (781-400-1790) or email these forms back to&nbsp;<a href="mailto:info@360nmt.com">info@360nmt.com</a> in advance of your  initial appointment. </p>
-<div id="ContentTxt">
-      <div class="marginL5pc">
-        <h2 class="textInfoStyle marginTB0">NMT Sessions: </h2>
+    <p class="textInfoStyle marginB10px marginTB0">&nbsp;</p>
+<div id="Team1">
+      <div class="marginL10pc">
+        <h2 class="Txt14px">NMT Sessions: </h2>
         <ul class="bulletsForm marginTB0">
           <li class=""> <a href="_pdfs/360_NMT_Full_Medical_History_Form_2014.pdf" target="_blank">Complete Medical History Form:<img src="_images/pdf_logo.png" alt="PDF Icon" class="absmiddle " ></a></li>
         </ul>
         <p>&nbsp;</p>
       </div>
     </div>
-    <div id="ContentTxt_right" style="text-align:left">
+    <div id="Team2" style="text-align:left">
       <div class="marginL5pc">
-        <h2 class="textInfoStyle marginTB0">Acupuncture  Sessions: </h2>
+        <h2 class="Txt14px">Acupuncture  Sessions: </h2>
         <ul class="bulletsForm marginTB0">
           <li class=""> <a href="_pdfs/Acupuncture_Health_History_and_Consent.pdf" target="_blank">Acupuncture Health History Form:<img src="_images/pdf_logo.png" alt="PDF Icon" class="absmiddle"></a> </li>
           <li> <a href="_pdfs/Acupuncture_Consent_to_Treatment.pdf" target="_blank">Acupuncture  Consent Form:<img src="_images/pdf_logo.png" alt="PDF Icon" class="absmiddle "></a> </li>
         </ul>
+      </div>
+    </div><div id="Team3">
+      <div class="marginL5pc">
+        <h2 class="Txt14px">Dry&nbsp;Needling Sessions: </h2>
+        <ul class="bulletsForm marginTB0">
+          <li class=""> <a href="_pdfs/Dry Needling Consent Form.pdf" target="_blank">Dry Needling Consent Form:<img src="_images/pdf_logo.png" alt="PDF Icon" class="absmiddle " ></a></li>
+          <li class=""> <a href="_pdfs/360 Physican Orders EB_2014.pdf" target="_blank">Physician's Orders:<img src="_images/pdf_logo.png" alt="PDF Icon" class="absmiddle " ></a></li>
+        </ul>
+        <p>&nbsp;</p>
       </div>
     </div>
   </div>

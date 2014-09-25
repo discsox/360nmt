@@ -315,7 +315,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
     </tr>
   <tr>
     <td align="center" bgcolor="#FFFFFF" class="tableValues hideInDesktop">90&nbsp;MIN</td>
-    <td align="center" bgcolor="#FFFFFF" class="tableValues emptyCell">&nbsp;</td>
+    <td align="center" bgcolor="#FFFFFF" class="tableValues ">$225<span class="xmasRed">*</span></td>
     <td align="center" bgcolor="#FFFFFF" class="tableValues">$120</td>
     </tr>
   <tr>
@@ -335,6 +335,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
     360 NMT does not directly bill insurance. However, we will provide receipts for services to submit for third party insurance billing. Each insurance plan is different, and we encourage clients to file for reimbursement. Even if your claim is declined, each submission increases insurance industry awareness of the medical necessity and proven benefits of receiving massage therapy.</p>
     <h2>TIPPING</h2>
     <p class="MainTxt"> 360 NMT considers it an honor to be on your healthcare team. While tipping is a part of the massage and spa industry, we do not expect it here at our clinic.</p>
+    <p class="MainTxt">&nbsp;</p>
+    <p class="MainTxt"><span class="xmasRed"><strong>*</strong></span> price for 90 minute initial evaluation and treatment with<strong> <a href="team/erika.php">Erika Bourne</a></strong> only</p>
     <p class="MainTxt">&nbsp;</p>
   </div>
 </div>

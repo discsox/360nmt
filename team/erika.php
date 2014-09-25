@@ -239,6 +239,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
     <p class="teamTxt"> Erika teaches  for Myopain Seminars, the premiere trigger point dry needling training program  in the United States. She is a past&nbsp;President and Honorary Lifetime Member  of the National Association of Myofascial Trigger Point Therapists (NAMTPT). She  also maintains active memberships with the International Myopain Society, the  American Society of Pain Management Nursing and the International Pelvic Pain  Society. When not in the treatment room, she can be found tending to her ever-expanding  botanical and sculpture gardens. </p>
     <p class="teamTxt"> Read  Erika&rsquo;s Story: Lemons into Lemonade <a href="http://www.myofascialpaintreatment.com/erika-story/" target="_blank">http://www.myofascialpaintreatment.com/erika-story/</a>    </p>
     <p class="teamTxt teamDetailPic">Provider: <a href="../trigger-point-dry-needling.php"><strong>Trigger Point Dry Needling</strong></a>  </p>
+    <h2 class="teamTxt">Pricing</h2>
+    <div id="GenText">
+      <table  border="1" cellpadding="0" cellspacing="0" id="pricing1" class="fullWidth">
+        <tr>
+          <th width="30%" align="center" valign="middle" bgcolor="#FFFFFF" class="tableValues"><img src="../_images/360-logo_web_8small.png" alt="Logo" ></th>
+          <td width="30%" height="55" valign="middle"  bgcolor="#E4A54E" class="tableTitle">Initial Evaluation/<br class="hideInDesktop">Consultation<span class="xmasRed">*</span></td>
+          <td width="30%" valign="middle" bgcolor="#ec7519" class="tableTitle" w>Follow-up <br class="hideInDesktop">
+          Sessions</td>
+        </tr>
+        <tr>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues">60&nbsp;MIN</td>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues emptyCell">&nbsp;</td>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues">$150</td>
+        </tr>
+        <tr>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues">90&nbsp;MIN</td>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues">$225</td>
+          <td align="center" bgcolor="#FFFFFF" class="tableValues emptyCell">&nbsp;</td>
+        </tr>
+  </table>
+    </div>
+      <p class="teamTxt"><span class="xmasRed"><strong>*</strong></span>Initial Evaluations include health history, treatment planning, hands-on   manual therapy. For Trigger Point Dry Needling with Erika Bourne, a   physician's order is required.<br>
+      If you would like DN with your first visit, please <strong> <a href="../forms.php">click here</a></strong> to access form for your doctor to fill out.</p>
         <div class="linkBoxWhite"><a href="../team.php">&lt;-Back to Team </a></div>
   </div>
   <!-- InstanceEndEditable -->

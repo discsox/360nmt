@@ -294,6 +294,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e46c0a', end
           <section class="content">
             <ul>
               <li>
+                <p><strong>Jill Geiger, AmSAT, STAT</strong><br>
+                72 Madison Ave.<br>
+                Newton, MA  02460
+                <br>
+                617-527-7373
+                <br>
+                <a href="http://www.alexandertechniqueinstruction.com/" target="_blank">AlexanderTechnique<br>
+Instruction.com</a></p>
+              </li>
+            </ul>
+            <ul>
+              <li>
                 <p><strong>Diane Hovenesian, C.A.T.</strong><br>
                 Healing Well Studio
                 <br>
